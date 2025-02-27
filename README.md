@@ -7,8 +7,3 @@ It was originally forked from the **[Laravel Validation Rules - Credit Card](htt
 - Fully compatible with **Laravel 12**
 - Provides validation rules for **credit card numbers, expiration dates, and CVC codes**
 - Lightweight and easy to integrate into any Laravel project
-
-## 🔧 Installation
-You can install this package via Composer:
-```bash
-composer require br9/laravel-credit-card-validation-rules
